@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>algamoney-api</name>
-	<description>Demo project for Spring Boot</description>
+	<description>mysql 8</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
