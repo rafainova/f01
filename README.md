@@ -1,3 +1,12 @@
+1
+9D65-XV25-8MMS-HVAM-GBE4
+
+3
+BRC8-W35M-6A2B-BUN5-7C54
+
+
+
+
 # f01
 
 sudo add-apt-repository ppa:yannubuntu/boot-repair
